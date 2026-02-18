@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+}
+
+#board{
+    /* background-color: #b90000; */
+    background-image:url('Images/dynamic-cartoon-speed-effect-jumping-character-cloud-doodle-background-comic-jump-fun-design-showing-ideal-353196237.webp');
+    background-size: cover;
+    margin: 0 35% 0 0;
+    width: 100%;
+}
+
+.description{
+    width: 80%;
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.main-div{
+
+    width: 100%;
+    height: 95vh;
+    display: flex;
+}
+
+ul{
+    list-style-type: none;
+    margin: 5% 25% 0 0;
+}
